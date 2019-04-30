@@ -1,1 +1,3 @@
-## testeAutomacao Java Project
+## Automação de Teste
+
+Projeto de Automação Indra
